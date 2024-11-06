@@ -23,7 +23,7 @@ pip install -r requirements.txt
 - Run the code with the mentioned command below.
 
 streamlit run app.py 
- 
+ model - https://drive.google.com/drive/folders/1siPKe3pmQdBkYxD42_8-qlL19Qh1XSHV
 
 
 
